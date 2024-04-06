@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d09eb5d-70be-409b-ad10-0539269833f7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/xuong/ktnc/ktncfinal/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/xuong/ktnc/ktncfinal/car/entities/XeOto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/xuong/ktnc/ktncfinal/car/service/XeOtoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/xuong/ktnc/ktncfinal/maths/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/car/XeOtoServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/maths/PointTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/maths/TotalTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2egZ9uSWhkAX7i2xhLE5e3Wb50y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\Testing\CoNgan\KTNCFinal\src\test\java" />
+      <recent name="D:\code\Testing\CoNgan\KTNCFinal\src\main\java\xuong\ktnc\ktncfinal" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.XeOtoServiceTest.testFinCarByBrand2">
+    <configuration name="XeOtoServiceTest.testFinCarByBrand1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="KTNCFinal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="car.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="car" />
+      <option name="MAIN_CLASS_NAME" value="car.XeOtoServiceTest" />
+      <option name="METHOD_NAME" value="testFinCarByBrand1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XeOtoServiceTest.testFinCarByBrand2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="KTNCFinal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="car.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="car" />
+      <option name="MAIN_CLASS_NAME" value="car.XeOtoServiceTest" />
+      <option name="METHOD_NAME" value="testFinCarByBrand2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XeOtoServiceTest.testFindCarByName2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="KTNCFinal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="car.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="car" />
+      <option name="MAIN_CLASS_NAME" value="car.XeOtoServiceTest" />
+      <option name="METHOD_NAME" value="testFindCarByName2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XeOtoServiceTest.testFindCarByName3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="KTNCFinal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="car.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="car" />
+      <option name="MAIN_CLASS_NAME" value="car.XeOtoServiceTest" />
+      <option name="METHOD_NAME" value="testFindCarByName3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XeOtoServiceTest.testFindCarByName4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="KTNCFinal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="car.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="car" />
+      <option name="MAIN_CLASS_NAME" value="car.XeOtoServiceTest" />
+      <option name="METHOD_NAME" value="testFindCarByName4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 10.1.19" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.19" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="KTNCFinal:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/KTNCFinal_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="KTNCFinal:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.XeOtoServiceTest.testFinCarByBrand2" />
+        <item itemvalue="JUnit.XeOtoServiceTest.testFinCarByBrand1" />
+        <item itemvalue="JUnit.XeOtoServiceTest.testFindCarByName4" />
+        <item itemvalue="JUnit.XeOtoServiceTest.testFindCarByName3" />
+        <item itemvalue="JUnit.XeOtoServiceTest.testFindCarByName2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-3183f394aec4-8f899f12" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d09eb5d-70be-409b-ad10-0539269833f7" name="Changes" comment="" />
+      <created>1712328035306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712328035306</updated>
+      <workItem from="1712328038039" duration="2095000" />
+      <workItem from="1712333078482" duration="45000" />
+      <workItem from="1712373892704" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
